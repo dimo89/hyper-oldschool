@@ -1,0 +1,26 @@
+{
+  "name": "hyper-oldschool",
+  "version": "1.0.0",
+  "description": "Oldschool terminal theme for hyper",
+  "main": "index.js",
+  "author": "dimo89",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimo89/hyper-oldschool.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "theme",
+    "oldschool",
+    "old",
+    "retro"
+  ],
+  "bugs": {
+    "url": "https://github.com/dimo89/hyper-oldschool/issues"
+  },
+  "homepage": "https://github.com/dimo89/hyper-oldschool#readme"
+}
